@@ -1,4 +1,4 @@
-# GorillaTagModding
+# How to Mod Gorilla Tag!
 
 Hello, This Tutorial Is for Learning How To Mod Gorilla Tag Easily with all the tools you need.
 
