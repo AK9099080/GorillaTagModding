@@ -12,6 +12,6 @@ https://store.steampowered.com/app/1533390/Gorilla_Tag/
 
 
 ## You can Choose One Of The Mods Below Like:
-- [GitHub Pages](https://pages.github.com/).
-- [GitHub Pages](https://pages.github.com/).
-- [GitHub Pages](https://pages.github.com/).
+- [GitHub Pages](https://pages.github.com/)
+- [GitHub Pages](https://pages.github.com/)
+- [GitHub Pages](https://pages.github.com/)
