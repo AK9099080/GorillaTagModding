@@ -7,4 +7,4 @@ Go To Plugins and add any dll's from this Repo.
 
 Cant add DLL's But this guy has it:
 
-  [AstroModz's Gorilla Tag Mods and Menus](https://github.com/AstroModz/gorilla-tag-mods-and-menus/tree/main/"target="_blank)
+  [AstroModz's Gorilla Tag Mods and Menus](https://github.com/AstroModz/gorilla-tag-mods-and-menus/tree/main)
